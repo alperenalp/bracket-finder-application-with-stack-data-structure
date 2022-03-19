@@ -1,0 +1,30 @@
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.exe.config
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.Form1.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.exe.config
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csprojResolveAssemblyReference.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.Form1.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csproj.GenerateResource.Cache
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.exe.config
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.exe
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\bin\Debug\Odev4_Yigin_Yapisi.pdb
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.Form1.resources
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.exe
+C:\Users\Alperen\Desktop\Yeni klasör\Odev4_Yigin_Yapisi\Odev4_Yigin_Yapisi\obj\Debug\Odev4_Yigin_Yapisi.pdb
